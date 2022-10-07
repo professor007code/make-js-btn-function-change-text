@@ -1,0 +1,22 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+button{
+    font-size: x-large;
+    background-color: #fff;
+    color: #000;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+}
+button:active{
+    transform: scale(.97);
+}
+h1{
+    border: 1px solid #fff;
+    display: inline-block;
+}
